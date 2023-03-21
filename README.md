@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋
+My name is Max, and I am a Computer Science student from Poland. I have a strong passion for programming and enjoy working on **backend** projects. Check out my GitHub profile to see some of my work!
 
-<!--
-**Ezdies/ezdies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Technologies I Love Learning About and Digging Into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C/C++
+- Java
+- .NET
+- Linux (Windows + WSL best development environment)
+- Rust 
+- Python
+- Embedded Systems
+
